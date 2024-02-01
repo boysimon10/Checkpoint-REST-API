@@ -20,7 +20,7 @@ Ce guide fournit des instructions sur la façon de tester l'API Rest Checkpoint 
    - Ajoutez les variables d'environnement suivantes :
      ```dotenv
      PORT=3000
-     MONGODB_URI=mongodb://localhost:27017/checkpointdb
+     MONGODB_URI=your_mongo_uri
      ```
 
 4. **Démarrer le Serveur :**
